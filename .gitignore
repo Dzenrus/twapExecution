@@ -1,6 +1,1 @@
-twapExecution/exchanges/apiSecretKey.py
-*.xml
-*.iml
-*.db
-.env
-*.pyc
+
